@@ -25,7 +25,7 @@ Repozytorium zawiera materiały pomocnicze oraz kod źródłowy wykorzystany w t
 
 - **Projekt SSRS (SQL Server Reporting Services)** [**ProjektSSRS.zip**](./ProjektSSRS.zip) – zestaw raportów stworzonych w środowisku **Visual Studio**
 
-- **Backupy baz danych** -- dane, które zostały przeprocesowane w projekcie oraz struktura baz danych znajdują sie pod linkiem: https://drive.google.com/drive/folders/1Bk15b6bAn-ooOQ670aWck34Njbjqh9LO?usp=sharing
+- **Backupy baz danych** - dane, które zostały przeprocesowane w projekcie oraz struktura baz danych znajdują sie pod linkiem: https://drive.google.com/drive/folders/1Bk15b6bAn-ooOQ670aWck34Njbjqh9LO?usp=sharing
 
 ## Cel repozytorium
 Repozytorium ma charakter dokumentacyjny i dydaktyczny – jego celem jest pokazanie praktycznej implementacji rozwiązania opisanego w pracy dyplomowej.  
