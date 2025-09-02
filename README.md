@@ -2,7 +2,7 @@
 
 To repozytorium stanowi **suplement** do pracy dyplomowej.  
 
-Repozytorium zawiera materiały pomocnicze oraz kod źródłowy wykorzystany w trakcie realizacji projektu:
+Repozytorium zawiera materiały pomocnicze oraz kod źródłowy wykorzystany w trakcie realizacji projektu.
 
 ## Zawartość
 - **Skrypty T-SQL** – definicje tabel, procedur składowanych oraz widoków, używanych do budowy i utrzymania hurtowni danych w systemie **Microsoft SQL Server**:
